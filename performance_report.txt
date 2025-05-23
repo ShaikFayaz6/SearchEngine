@@ -1,0 +1,71 @@
+Query Performance Comparison Report
+==================================
+
+Topic 352:
+  title:
+    Precision: 0.0018
+    Recall:    0.0385
+    Relevant Retrieved: 2/52
+
+  title+desc:
+    Precision: 0.0005
+    Recall:    0.0385
+    Relevant Retrieved: 2/52
+
+  title+narr:
+    Precision: 0.0018
+    Recall:    0.0385
+    Relevant Retrieved: 2/52
+
+
+Topic 353:
+  title:
+    Precision: 0.0560
+    Recall:    0.3182
+    Relevant Retrieved: 7/22
+
+  title+desc:
+    Precision: 0.0029
+    Recall:    0.4545
+    Relevant Retrieved: 10/22
+
+  title+narr:
+    Precision: 0.0560
+    Recall:    0.3182
+    Relevant Retrieved: 7/22
+
+
+Topic 354:
+  title:
+    Precision: 0.0135
+    Recall:    0.2400
+    Relevant Retrieved: 6/25
+
+  title+desc:
+    Precision: 0.0032
+    Recall:    0.3200
+    Relevant Retrieved: 8/25
+
+  title+narr:
+    Precision: 0.0135
+    Recall:    0.2400
+    Relevant Retrieved: 6/25
+
+
+Topic 359:
+  title:
+    Precision: 0.0011
+    Recall:    0.1667
+    Relevant Retrieved: 1/6
+
+  title+desc:
+    Precision: 0.0004
+    Recall:    0.1667
+    Relevant Retrieved: 1/6
+
+  title+narr:
+    Precision: 0.0011
+    Recall:    0.1667
+    Relevant Retrieved: 1/6
+
+
